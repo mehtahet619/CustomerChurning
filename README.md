@@ -1,4 +1,3 @@
-# CustomerChurning
 #  Customer Churn Prediction
 
 This project predicts whether a customer will churn (leave) based on various behavioral and demographic factors. It uses machine learning techniques with a focus on **Random Forest Classifier** along with **hyperparameter tuning**, and provides an interactive interface using **Gradio**.
