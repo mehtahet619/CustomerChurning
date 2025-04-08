@@ -38,6 +38,8 @@ This project predicts whether a customer will churn (leave) based on various beh
 
 ---
 
+## Live Demo at:https://mehtahet619-customerchurn.hf.space/
+
 ## 🚀 Run Locally
 
 ```bash
@@ -50,3 +52,7 @@ pip install -r requirements.txt
 
 # Run the Gradio app
 python app.py
+
+
+
+
