@@ -5,6 +5,22 @@ This project predicts whether a customer will churn (leave) based on various beh
 ![Image](https://github.com/user-attachments/assets/f5bbf261-7bd8-4c74-8a03-b593d4303e9c)
 
 ---
+## About Dataset
+
+Taken from https://www.kaggle.com/datasets/shrutimechlearn/churn-modelling
+
+This dataset contains info on **10,000 bank customers**, used to predict **customer churn** (whether a customer will leave the bank). It includes demographic, financial, and account activity features.
+
+### Features:
+- `CreditScore`, `Geography`, `Gender`, `Age`, `Tenure`
+- `Balance`, `NumOfProducts`, `HasCrCard`, `IsActiveMember`, `EstimatedSalary`
+- `Exited` → Target (1 = customer left, 0 = stayed)
+
+ **Clean data**  
+ Balanced feature variety  
+ Ideal for classification models & churn prediction
+
+---
 
 ##  Features
 
