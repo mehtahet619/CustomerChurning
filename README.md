@@ -17,6 +17,7 @@ This dataset contains info on **10,000 bank customers**, used to predict **custo
 - `Exited` → Target (1 = customer left, 0 = stayed)
 
  **Clean data**  
+ 
  Balanced feature variety  
  Ideal for classification models & churn prediction
 
